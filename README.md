@@ -28,4 +28,4 @@ Melhoria 1, melhoria 2
 
 
 #### Imagem externa
-![Logo do Node.js](https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg)
+![Logo do Node.js](https://en.wikipedia.org/wiki/File:Node.js_logo.svg)
