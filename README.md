@@ -39,3 +39,10 @@ Melhoria 1, melhoria 2
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/matheusbattisti
+
+
+``` javascript
+fucntion soma(a, b){
+    return a + b;
+}
+```
