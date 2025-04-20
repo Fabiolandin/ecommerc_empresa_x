@@ -25,3 +25,7 @@ Melhoria 1, melhoria 2
 #### Imagem local
 
 ![Logo do Pyhton](img/python.png)
+
+
+#### Imagem externa
+![Logo do Node.js](https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg)
