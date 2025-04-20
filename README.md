@@ -29,3 +29,13 @@ Melhoria 1, melhoria 2
 
 #### Imagem externa
 ![Logo do Node.js](https://en.wikipedia.org/wiki/File:Node.js_logo.svg)
+
+
+
+## Links interessantes:
+
+[Google](https://www.google.com)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://www.github.com/matheusbattisti
